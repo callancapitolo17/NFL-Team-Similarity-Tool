@@ -18,7 +18,7 @@ A step-by-step guide to running the Shiny App in R:
 ```
 >runGitHub("NFL-Team-Similarity-Tool", "callancapitolo17")
 ```
-**Note**: It may take 3-5 minutes for the Shiny app to open as all the data since the 2006 NFL season needs to be downloaded and some packages may need to be installed as well.
+**Note**: It could take up to 5-10 minutes for the Shiny app to open as all the data since the 2006 NFL season needs to be downloaded and some packages may need to be installed as well.
 
 ## Team Similarity Tool Preview:
 
