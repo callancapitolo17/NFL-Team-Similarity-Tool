@@ -1,6 +1,6 @@
 ## Summary
 
-A R shiny app that is a NFL team comparison tool based on a statistical model that utilizes 100 key features to develop strategic insights. Users select a team, and the tool generates the 10 most similar teams from the past 18 seasons
+A R shiny app that is a NFL team comparison tool based on a statistical model that utilizes 100 key features to develop strategic insights. Users select a team, and the tool generates the 10 most similar teams from the past 18 seasons.
 
 ## Getting Started
 A step-by-step guide to running the Shiny App in R:
