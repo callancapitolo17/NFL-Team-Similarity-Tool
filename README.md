@@ -6,6 +6,7 @@ A R shiny app that is a NFL team comparison tool based on a statistical model th
 A step-by-step guide to running the Shiny App in R:
 
 1. Make sure that you have R or RStudio [successfully downloaded](https://rstudio-education.github.io/hopr/starting.html) on your location machine
+   
 1. Install the `shiny` library to R: 
 ```
 if (!requireNamespace("shiny", quietly = TRUE)) {install.packages("shiny")}
