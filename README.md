@@ -8,17 +8,17 @@ A step-by-step guide to running the Shiny App in R:
 1. Make sure that you have R or RStudio [successfully downloaded](https://rstudio-education.github.io/hopr/starting.html) on your location machine
 1. Install the `shiny` library to R: 
 ```
->if (!requireNamespace("shiny", quietly = TRUE)) {install.packages("shiny")}
+if (!requireNamespace("shiny", quietly = TRUE)) {install.packages("shiny")}
 ```
 3. Load the shiny library: 
 ```
->library(shiny)
+library(shiny)
 ```
 4. Run the shiny app: 
 ```
->runGitHub("NFL-Team-Similarity-Tool", "callancapitolo17")
+runGitHub("NFL-Team-Similarity-Tool", "callancapitolo17")
 ```
-**Note**: It could take up to 5-10 minutes for the Shiny app to open as all the data since the 2006 NFL season needs to be downloaded and some packages may need to be installed as well.
+**Note**: It could take up to 3-5 minutes for the Shiny app to open in a new window as all the data since the 2006 NFL season needs to be downloaded and some packages may need to be installed as well.
 
 ## Team Similarity Tool Preview:
 
